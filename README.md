@@ -1,0 +1,2 @@
+# platformio_STM32
+ 使用先进的开发工具platformio+VSCode开发STM32，本仓库提供了一个标准模板，直接使用VScode打开即可
